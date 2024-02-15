@@ -1,0 +1,4 @@
+diff --git a/llibre/index.txt b/llibre/index.txt
+index 6529bbd..e69de29 100644
+Binary files a/llibre/index.txt and b/llibre/index.txt differ
+xxxxxxx
